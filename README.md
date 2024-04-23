@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+I am currently working at a research group called Signal Analysis and Imaging Group (SAIG) (https://saig.physics.ualberta.ca/doku.php)
+
 <!--
 **joaquin-17/joaquin-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
