@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I work at the [Signal Analysis and Imaging Group](https://duckduckgo.com).
+I work at the [Signal Analysis and Imaging Group](https://duckduckgo.com) (SAIG).
 
 
 <!--
