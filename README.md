@@ -13,7 +13,7 @@ I work at the [Signal Analysis and Imaging Group](https://duckduckgo.com) (SAIG)
 - 📫 How to reach me:
 - Email: aacedo@ualberta.ca
 - WhatsApp: +1 780 803 1794
-- LinkedIn:[Joaquin Acedo](https://www.linkedin.com/in/joaqu%C3%ADn-acedo-45616817a/)
+- LinkedIn: [Joaquin Acedo](https://www.linkedin.com/in/joaqu%C3%ADn-acedo-45616817a/)
 - Website: in progress, coming soon
 
 
